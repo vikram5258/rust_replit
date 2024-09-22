@@ -1,4 +1,4 @@
 fn main() {
     println!("Hello, world!");
-  panic!("error")
+    panic!("error")
 }
